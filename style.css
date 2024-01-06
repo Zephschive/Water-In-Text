@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: darkcyan;
+  }
+  
+ .center
+ {
+    color: transparent;
+    font-size: 15rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    background: url(water-43.gif);
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    font-weight: 900;
+    
+    
+ }
